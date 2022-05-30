@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Estudante de front-end
+🔭 Estudante de front-end <br>
 🌱 Atualmente estou estudando bootstrap
 
 <div style="display: inline_block"><br>
