@@ -1,4 +1,4 @@
-### Eai! 👋
+###  👋
 
 <!--
 **CaioNunoi/CaioNunoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Estudante de front-end <br>
-🌱 Atualmente estou estudando bootstrap
+🔭 Estudante na area de desenvolvimento <br>
+🌱 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
