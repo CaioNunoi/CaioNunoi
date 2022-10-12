@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 [![status](https://github-readme-stats.vercel.app/api?username=caionunoi&theme=blue-green)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caionunoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caionunoi&layout=compact)](https://github.com/caionunoi/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,bootstrap,html,css,)](https://skillicons.dev)
